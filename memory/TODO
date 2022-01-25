@@ -1,0 +1,4 @@
+
+Write functionality for monitoring purposes, such as finding out how many
+allocations and frees have been performed and printing a report for the
+currently active allocations.
